@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am currently pursuing btech cse 2nd year <br>strong intrest in coding <br>web developmant <br>ai projects 
+ Hi 👋, I'm Aman Singh  
+🎓 B.Tech CSE student  
+💻 Interested in Data Structures, Web Development, and Problem Solving  
+🚀 Learning new technologies and building projects step by step  
+📚 Believe in consistency, logic, and clean code  
 
 
 ## 🌐 Socials:
